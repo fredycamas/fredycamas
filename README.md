@@ -12,7 +12,7 @@
   </a>
 </p>
 
-As a seasoned software engineer, I have a proven track record of delivering high-performance and highly scalable native iOS applications. With over 5 years of experience in both mobile and web development, I possess a deep understanding of computer science principles and industry best practices. My expertise lies in Swift and iOS, which I have mastered through years of hands-on experience. In addition to this, I also have extensive experience with Java, Kotlin, and Android development, as well as React, CSS, and HTML. My ability to comprehend complex programming languages and technologies enables me to deliver innovative solutions that meet the needs of businesses and users alike. I am confident in my skills and committed to providing exceptional results that exceed expectations.
+As an experienced software engineer, I have a proven track record of delivering high-performance and highly scalable native iOS applications. With over 5 years of experience in both mobile and web development, I possess a deep understanding of computer science principles and industry best practices. My expertise lies in Swift and iOS, which I have mastered through years of hands-on experience. In addition to this, I also have extensive experience with Java, Kotlin, and Android development, as well as React, CSS, and HTML. My ability to comprehend complex programming languages and technologies enables me to deliver innovative solutions that meet the needs of businesses and users alike. I am confident in my skills and committed to providing exceptional results that exceed expectations.
 
 
 
